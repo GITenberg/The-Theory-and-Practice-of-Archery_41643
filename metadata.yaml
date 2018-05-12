@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41278'
     url: http://www.gutenberg.org/2009/agents/41278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41643#The-Theory-and-Practice-of-Archery
 gutenberg_issued: '2012-12-17'
 gutenberg_type: Text
 identifiers:
