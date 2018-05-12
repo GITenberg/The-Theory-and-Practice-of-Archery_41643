@@ -1,0 +1,28 @@
+_repo: The-Theory-and-Practice-of-Archery_41643
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41643-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Butt, W.
+    gutenberg_agent_id: '41279'
+    url: http://www.gutenberg.org/2009/agents/41279
+  - agent_name: Ford, Horace A. (Horace Alfred)
+    birthdate: 1822
+    gutenberg_agent_id: '41278'
+    url: http://www.gutenberg.org/2009/agents/41278
+description: ''
+gutenberg_issued: '2012-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Archery'
+title: The Theory and Practice of Archery
+url: http://www.gutenberg.org/ebooks/41643
